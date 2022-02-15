@@ -13,3 +13,4 @@ This adds the following code snippets for swift:
 - `qbef` (adds a `beforeEach` block)
 - `qbl` (adds a `itShouldBehaveLike` block)
 - `qsh` (adds a `sharedExmaples` block)
+- `qaft` (adds an `afterEach` block)
